@@ -1,5 +1,5 @@
                                                               Hi 👋 I'm Nishu 
-     👋 Hi there! I'm Nishu, a passionate front-end enthusiast on a journey to create visually stunning and interactive web experiences. Currently honing my skills as a front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development.
+      I'm a passionate front-end enthusiast on a journey to create visually stunning and interactive web experiences. Currently honing my skills as a front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development.
 
 🚀 My GitHub is a canvas where I paint with HTML, CSS, and JavaScript. Constantly exploring new technologies and design trends, I'm committed to creating user-friendly interfaces and pixel-perfect designs. Let's build the web of tomorrow together!
 
@@ -13,10 +13,11 @@
 
 
 
-skills :
+<h1>Skills</h1>
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiNQKONPDq31j787sa1kcpANx3syFOoy9Y4syidlwbg&s"
                     alt="">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzUEW6EKGCWSd1sRs7f3V4je34W5iromOSdw&usqp=CAU"
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFBtQK4NtdZgNLwKXC_rOjPJlmOYsFDE-tdWZFqHs5A&s"
                     alt="">
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFuBnLlbw6x4dzFEiGMGBaUkFGIndMJ90YQ&usqp=CAU"
                     alt="">
