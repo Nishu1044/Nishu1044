@@ -1,5 +1,5 @@
                                                               Hi 👋 I'm Nishu 
-      I'm a passionate front-end enthusiast on a journey to create visually stunning and interactive web experiences. Currently honing my skills as a front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development.
+ "I'm a front-end enthusiast on a journey to create visually stunning and interactive web experiences. As a passionate front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development. 🚀💻✨"
 
 🚀 My GitHub is a canvas where I paint with HTML, CSS, and JavaScript. Constantly exploring new technologies and design trends, I'm committed to creating user-friendly interfaces and pixel-perfect designs. Let's build the web of tomorrow together!
 
