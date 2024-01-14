@@ -1,4 +1,4 @@
-                                                            <h1>Hi 👋 I'm Nishu </h1>
+                                                            Hi 👋 I'm Nishu 
                                                              
  "I'm a front-end enthusiast on a journey to create visually stunning and interactive web experiences. As a passionate front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development. 🚀💻✨"
 
