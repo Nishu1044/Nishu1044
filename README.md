@@ -1,26 +1,45 @@
-                                                            Hi 👋 I'm Nishu 
-                                                             
- "I'm a front-end enthusiast on a journey to create visually stunning and interactive web experiences. As a passionate front-end student, I thrive on turning ideas into code and embracing the ever-evolving world of web development. 🚀💻✨"
+![header_](https://github.com/ayushdwivedee/ayushdwivedee/assets/140685778/d93aae48-8a20-4345-9018-655216b998e5)
+# <center>Hi 👋 I’m Nishu Kumari </center>
+### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
+## 🚀 Skills
+- Languages: HTML, CSS, JavaScript ,Python
+- Frameworks/Libraries: React
+- Tools: Git, Postman, npm , Visual Studio Code
 
-🚀 My GitHub is a canvas where I paint with HTML, CSS, and JavaScript. Constantly exploring new technologies and design trends, I'm committed to creating user-friendly interfaces and pixel-perfect designs. Let's build the web of tomorrow together!
+- 🌎 I hail from jharkhand , India
+- 🌱 I’m currently learning Backend
+- 💞️ I’m looking to collaborate on some awesome projects that can enhance my skills
+- 👀 I’m interested in stock market and personal finance too
+- 📩 Email :[Send me an Email](mailto:nishukumari3109@gmail.com)
+- 🌐 Portfolio: [My Portfolio]()
 
-🌱 Open to collaboration and always eager to learn, feel free to explore my projects and drop me a line. Let's connect and code something amazing! 🖥️✨
-                                                             
+# 🌐Socials
+<a href="https://www.linkedin.com/in/nishu-kumari-67400230b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="27"/></a>
+<a href="https://github.com/Nishu1044"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="27"/></a>
+ 
 
-- 🔭 I’m currently working on CNX(concentrix)
-- 🖋️ I’m currently learning WEB DEVELOPMENT
-- 🖋️ I have leaned HTML,CSS,JavaScript,Python,React
-- 📧 Email - nishukumari3109@gmail.com
+# 💻 Tech Stack
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="27"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="27"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" height="27"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="27"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="27"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify" height="27"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" height="27"/>
 
 
 
-<h1>Skills</h1>
+ 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeiNQKONPDq31j787sa1kcpANx3syFOoy9Y4syidlwbg&s"
-                    alt="">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbFBtQK4NtdZgNLwKXC_rOjPJlmOYsFDE-tdWZFqHs5A&s"
-                    alt="">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEFuBnLlbw6x4dzFEiGMGBaUkFGIndMJ90YQ&usqp=CAU"
-                    alt="">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKTEazcmTBm_tD8Bzzo6XnZswjDQMAR5aCoA&usqp=CAU"
-                    alt="">                   
+
+
+# 📊 GitHub Stats
+![Nishu kumari's Stats](https://github-readme-stats.vercel.app/api?username=Nishu1044&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Nishu kumari's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishu1044&theme=vue-dark&hide_border=true)
+
+![Nishu kumari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu1044&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<!---
+Nishu kumari/Nishu kumari is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
