@@ -2,12 +2,12 @@
 # <center>Hi 👋 I’m Nishu Kumari </center>
 ### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
 ## 🚀 Skills
-- Languages: HTML, CSS, JavaScript ,Python
+- Languages: HTML, CSS, JavaScript ,Python,React
 - Frameworks/Libraries: React
-- Tools: Git, Postman, npm , Visual Studio Code
+- Tools: Git, Postman, npm , Visual Studio Code,Replit,Codepen.
 
-- 🌎 I hail from jharkhand , India
-- 🌱 I’m currently learning Backend
+- 🌎 I am from  Chatra jharkhand , India
+- 🌱 I’m currently learning Backend from Masai School
 - 💞️ I’m looking to collaborate on some awesome projects that can enhance my skills
 - 👀 I’m interested in stock market and personal finance too
 - 📩 Email :[Send me an Email](mailto:nishukumari3109@gmail.com)
