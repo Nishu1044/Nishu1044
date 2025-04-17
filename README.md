@@ -1,6 +1,6 @@
 ![header_](https://cdn.ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
 # <center>Hi 👋 I’m Nishu Kumari </center>
-### <center>I'm a passionate front-end developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
+### <center>I'm a passionate full stack developer developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
 ## 🚀 Skills
 - Languages: HTML, CSS, JavaScript ,Python,React
 - Frameworks/Libraries: React
