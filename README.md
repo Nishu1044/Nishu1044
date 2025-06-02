@@ -2,7 +2,7 @@
 # <center>Hi 👋 I’m Nishu Kumari </center>
 ### <center>I'm a passionate full stack developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
 ## 🚀 Skills
-- Languages: HTML, CSS, JavaScript ,Python,React
+- Languages: HTML, CSS, JavaScript ,Python,React,Electron-React.js,Node.js,ROS,MapBoxGl
 - Frameworks/Libraries: React
 - Tools: Git, Postman, npm , Visual Studio Code,Replit,Codepen.
 
