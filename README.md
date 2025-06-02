@@ -1,6 +1,9 @@
 ![header_](https://cdn.ourcodeworld.com/public-media/articles/articleocw-5755472112ab3.jpg)
 # <center>Hi 👋 I’m Nishu Kumari </center>
-### <center>I'm a passionate full stack developer with a love for crafting beautiful and user-friendly web experiences. Proficient in HTML,CSS, JavaScript and React , showcasing expertise through impactful projects, including an ecommerce website. Adept at collaborating within virtual teams, demonstrating strong technical acumen and a commitment to innovation in web development.👨‍💻✨ </center>
+### <center>Aspiring Full-Stack Developer with a strong frontend foundation and experience in real-time systems.
+Built cross-platform apps using React.js & Electron, integrating live ROS data for features like mission
+planning and GPS tracking. Trained in the MERN stack, focused on clean, scalable, and high
+performance code..👨‍💻✨ </center>
 ## 🚀 Skills
 - Languages: HTML, CSS, JavaScript ,Python,React,Electron-React.js,Node.js,ROS,MapBoxGl
 - Frameworks/Libraries: React
